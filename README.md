@@ -45,6 +45,11 @@ The dataset includes Airbnb listings with the following features:
 * Use **dynamic pricing strategies** based on demand and availability
 * Offer competitive pricing for private rooms to boost occupancy rates
 
+<img width="809" height="425" alt="image" src="https://github.com/user-attachments/assets/51e97e90-7602-49b6-a7df-1cc240015ff6" />
+<img width="806" height="453" alt="image" src="https://github.com/user-attachments/assets/7351f432-0e39-4199-86fd-609f0ec93ee3" />
+<img width="884" height="395" alt="image" src="https://github.com/user-attachments/assets/ec8f97f2-8a74-429b-a6fe-f9976794fdfa" />
+ 
+
 ## 🚀 Conclusion
 This analysis highlights how location, room type, and customer engagement significantly influence Airbnb performance. The insights can help hosts make data-driven decisions to improve pricing strategies and maximize occupancy.
 
